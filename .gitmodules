@@ -1,0 +1,3 @@
+[submodule "client-test"]
+	path = client-test
+	url = https://github.com/PabloSzx/client-test
